@@ -114,7 +114,6 @@ along with the changelog, in the [Releases Page](../../releases).
 
 ## License
 
-This code is released under the Apache 2.0 License. Please see [LICENSE](https://github.com/hashicorp/terraform-aws-vault/tree/master/LICENSE) and [NOTICE](https://github.com/hashicorp/terraform-aws-vault/tree/master/NOTICE) for more
-details.
+This code is released under the Apache 2.0 License. Please see [LICENSE](https://github.com/hashicorp/terraform-aws-vault/tree/master/LICENSE)
 
 Copyright &copy; 2019 HashiCorp

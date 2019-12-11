@@ -1,4 +1,3 @@
-[![Maintained by Gruntwork.io](https://img.shields.io/badge/maintained%20by-gruntwork.io-%235849a6.svg)](https://gruntwork.io/?ref=repo_aws_vault)
 # Vault AWS Module
 
 This repo contains a set of modules in the [modules folder](https://github.com/hashicorp/terraform-aws-vault/tree/master/modules) for deploying a [Vault](https://www.vaultproject.io/) cluster on

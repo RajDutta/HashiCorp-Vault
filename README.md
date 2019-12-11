@@ -31,8 +31,6 @@ This Module includes:
   certificate store. This allows you to establish TLS connections to services that use this TLS certs signed by this
   CA without getting x509 certificate errors.
 
-
-
 ## How do you use this Module?
 
 This repo has the following structure:
@@ -86,9 +84,6 @@ To deploy the Vault cluster:
 1. Head over to the [How do you use the Vault cluster?](https://github.com/hashicorp/terraform-aws-vault/tree/master/modules/vault-cluster#how-do-you-use-the-vault-cluster) guide
    to learn how to initialize, unseal, and use Vault.
 
-
-
-
 ## What's a Module?
 
 A Module is a canonical, reusable, best-practices definition for how to run a single piece of infrastructure, such
@@ -101,42 +96,25 @@ existing code that has been proven in production. And instead of maintaining all
 you can leverage the work of the Module community and maintainers, and pick up infrastructure improvements through
 a version number bump.
 
-
-
 ## Who maintains this Module?
 
-This Module is maintained by [Gruntwork](http://www.gruntwork.io/). If you're looking for help or commercial
-support, send an email to [modules@gruntwork.io](mailto:modules@gruntwork.io?Subject=Vault%20Module).
-Gruntwork can help with:
+This Module is maintained by [HashiCorp](https://www.hashicorp.com/). If you're looking for help or commercial
+support, send an email to [help@hashicorp.com](mailto:help@hashicorp.com?Subject=Vault%20Module).
+HashiCorp can help with:
 
 * Setup, customization, and support for this Module.
 * Modules for other types of infrastructure, such as VPCs, Docker clusters, databases, and continuous integration.
 * Modules that meet compliance requirements, such as HIPAA.
 * Consulting & Training on AWS, Terraform, and DevOps.
 
-
-
-
-## How do I contribute to this Module?
-
-Contributions are very welcome! Check out the [Contribution Guidelines](https://github.com/hashicorp/terraform-aws-vault/tree/master/CONTRIBUTING.md) for instructions.
-
-
-
 ## How is this Module versioned?
 
 This Module follows the principles of [Semantic Versioning](http://semver.org/). You can find each new release,
 along with the changelog, in the [Releases Page](../../releases).
-
-During initial development, the major version will be 0 (e.g., `0.x.y`), which indicates the code does not yet have a
-stable API. Once we hit `1.0.0`, we will make every effort to maintain a backwards compatible API and use the MAJOR,
-MINOR, and PATCH versions on each release to indicate any incompatibilities.
-
-
 
 ## License
 
 This code is released under the Apache 2.0 License. Please see [LICENSE](https://github.com/hashicorp/terraform-aws-vault/tree/master/LICENSE) and [NOTICE](https://github.com/hashicorp/terraform-aws-vault/tree/master/NOTICE) for more
 details.
 
-Copyright &copy; 2017 Gruntwork, Inc.
+Copyright &copy; 2019 HashiCorp
